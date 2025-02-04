@@ -1,2 +1,2 @@
-# kamsyprojects
-Random, mostly Machine Learning Projects 
+# kamsylearning
+Random learning projects.
